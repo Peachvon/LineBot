@@ -10,7 +10,7 @@ const char* host = "https://esp32mqtt.herokuapp.com/bot.php";//change this to yo
 #define KEY     "oBAxumONKrpvQq3"     //change this to your KEY
 #define SECRET  "oBAxumONKrpvQq3:gQyoDqYuTB2pCLPAIfks5C48s"     //change this to your SECRET
 
-#define ALIAS   "NodeMCU1" //set name of drvice
+#define ALIAS   "ESP8266" //set name of drvice
 #define TargetWeb "switch" //set target name of web
 
 WiFiClient client;
